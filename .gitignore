@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+cmake-build-debug
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+sudoku_killer
+sudoku_killer.cbp
